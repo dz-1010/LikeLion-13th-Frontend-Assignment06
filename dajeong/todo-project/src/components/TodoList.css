@@ -1,0 +1,30 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.todo-wrapper {
+ width: 700px;
+ padding: 20px;
+ margin: 20px;
+ 
+ border-radius: 3%;
+ box-shadow: 0px 5px 10px #eee;
+ box-sizing: border-box;
+
+ background-color: #f9fbfc;
+}
+
+h2 {
+    text-align: center;
+}
+
+.todos {
+    width: 500px;
+    padding: 10px;
+    border-radius: 15px;
+    background-color: white;
+    box-shadow: 0px 5px 10px #eee;
+    margin: 10px auto;
+}

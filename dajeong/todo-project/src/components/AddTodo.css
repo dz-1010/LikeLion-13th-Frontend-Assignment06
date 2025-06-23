@@ -1,0 +1,21 @@
+.add-wrapper {
+ width: 500px;
+ padding: 20px;
+ margin: 20px;
+ 
+ 
+ border-radius: 3%;
+ box-shadow: 0px 5px 10px #eee;
+ box-sizing: border-box;
+
+ background-color: #f9fbfc;
+}
+
+input, textarea {
+    width: 400px;
+}
+
+button {
+    color: white;
+    background-color: rgb(114, 158, 253);
+}
